@@ -32,7 +32,4 @@ It focuses on validating the overall flow of:
 
 Future drafts will expand API coverage, add authentication, and integrate with AI-based evaluation modules.
 
----
-
-## 📁 Folder Structure
 
